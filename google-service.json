@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "485093561661",
+    "firebase_url": "https://cloc-bdf74-default-rtdb.firebaseio.com",
+    "project_id": "cloc-bdf74",
+    "storage_bucket": "cloc-bdf74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485093561661:android:360d679c1a2513980f2154",
+        "android_client_info": {
+          "package_name": "com.CloC"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRsW0MWxYRATKcTSlPotpOy7UdvEjcZSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

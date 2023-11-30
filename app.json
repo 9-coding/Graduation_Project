@@ -1,7 +1,9 @@
 {
   "expo": {
     "android": {
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
+
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       }
@@ -22,9 +24,9 @@
     "orientation": "portrait",
     "slug": "CloC",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/logo.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000000"
     },
     "userInterfaceStyle": "light",
     "version": "1.0.0",

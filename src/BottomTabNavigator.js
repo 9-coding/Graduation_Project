@@ -32,7 +32,7 @@ const BottomTabNavigator = () => {
                     return <Ionicons name={iconName} size={size} color={color} />;
                 },
             })}
-            tabBarOptions={{
+            tabOptions={{
                 activeTintColor: 'black', // 선택된 탭의 색상
                 inactiveTintColor: 'gray', // 선택되지 않은 탭의 색상
             }}
